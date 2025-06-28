@@ -1,0 +1,83 @@
+[
+  {
+    "id": "1",
+    "title": "Wooden House, Florida",
+    "rating": 5.0,
+    "description": "Enter a freshly updated and thoughtfully furnished peaceful home...",
+    "image": "/public/images/Floride.jpg",
+    "features": ["money", "wifi", "bedrooms", "tv", "fire"],
+    "details": "This is a detailed description of the Wooden House in Florida..."
+  },
+  {
+    "id": "2",
+    "title": "Beach Paradise, Maldives",
+    "rating": 4.8,
+    "description": "A perfect getaway with stunning ocean views and private bungalows...",
+    "image": "/public/images/Maldives.webp",
+    "features": ["wifi", "bedrooms", "tv", "pool", "spa"],
+    "details": "More detailed info about this destination..."
+  },
+  {
+    "id": "3",
+    "title": "Mountain Retreat, Switzerland",
+    "rating": 4.9,
+    "description": "Enjoy peaceful snowy escapes surrounded by the Alps...",
+    "image": "/public/images/Switzerland.webp",
+    "features": ["wifi", "bedrooms", "fire", "sauna", "balcony"],
+    "details": "The Swiss mountain retreat offers a cozy stay with stunning alpine views."
+  },
+  {
+    "id": "4",
+    "title": "City Apartment, Tokyo",
+    "rating": 4.7,
+    "description": "Modern city life in the heart of Tokyo with all amenities...",
+    "image": "/public/images/Tokyo.jpg",
+    "features": ["wifi", "tv", "ac", "elevator", "kitchen"],
+    "details": "Live like a local in this stylish Tokyo apartment close to shopping and dining."
+  },
+  {
+    "id": "5",
+    "title": "Desert Camp, Morocco",
+    "rating": 4.6,
+    "description": "Experience the magical Sahara nights in traditional Berber tents...",
+    "image": "/public/images/Morocco.jpg",
+    "features": ["fire", "wifi", "bedrooms", "breakfast", "guided-tours"],
+    "details": "An unforgettable desert journey with camel rides and local cuisine."
+  },
+  {
+    "id": "6",
+    "title": "Vineyard Villa, Tuscany",
+    "rating": 4.9,
+    "description": "Charming villa in the heart of Tuscany surrounded by vineyards...",
+    "image": "/public/images/Tuscany.jpg",
+    "features": ["bedrooms", "wifi", "balcony", "kitchen", "wine-tasting"],
+    "details": "Relax in this countryside home and enjoy wine and stunning landscapes."
+  },
+  {
+    "id": "7",
+    "title": "Jungle Lodge, Bali",
+    "rating": 4.8,
+    "description": "Immerse in nature with eco-friendly stays deep in the Balinese jungle...",
+    "image": "/public/images/Bali.jpg",
+    "features": ["bedrooms", "fire", "wifi", "organic-food", "outdoor-shower"],
+    "details": "Perfect for retreat and yoga lovers with guided wellness programs."
+  },
+  {
+    "id": "8",
+    "title": "Icelandic Cabin, Iceland",
+    "rating": 4.7,
+    "description": "Watch the northern lights from your private cabin, in the Balinese jungle...",
+    "image": "/public/images/Iceland.jpg",
+    "features": ["fire", "bedrooms", "sauna", "wifi", "hot-tub"],
+    "details": "A secluded stay with natural wonders all around, ideal for winter lovers."
+  },
+  {
+    "id": "9",
+    "title": "Luxury Yacht, Greece",
+    "rating": 4.9,
+    "description": "Sail the Aegean Sea on a luxury private yacht with crew...",
+    "image": "/public/images/Greece.jpg",
+    "features": ["bedrooms", "wifi", "spa", "chef", "jacuzzi"],
+    "details": "Explore Greek islands while enjoying full luxury service on board."
+  }
+]
