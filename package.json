@@ -4,10 +4,10 @@
   "description": "Responsive blog website using React and Tailwind CSS",
   "main": "index.js",
   "scripts": {
-    "start": "vite",
-    "build": "vite build",
-    "dev": "vite"
-  },
+  "start": "npx vite",
+  "build": "npx vite build",
+  "dev": "npx vite"
+},
   "dependencies": {
     "@heroicons/react": "^2.2.0",
     "@material-tailwind/react": "^2.1.10",
